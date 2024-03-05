@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Marvellous, yes really 😮
+
+I'm currently learning Java, Spring, JavaScript and React!
+
 <!--
 **Marv3llous/Marv3llous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
