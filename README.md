@@ -4,11 +4,9 @@ My name is Marvellous, yes really 😮
 
 I'm currently learning Java, Spring, JavaScript and React!
 
-![code meme](https://github.com/Marv3llous/Marv3llous/assets/156658708/4932e48b-d92a-4557-8e7a-f8363b0d6697)
-
-
-
-
+<p align="center">
+  <img src="https://github.com/Marv3llous/Marv3llous/assets/156658708/897941b8-087a-462b-995f-4bf05b4f5c6f" alt="cool image"/>
+</p>
 
 
 
