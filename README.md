@@ -10,7 +10,7 @@ I'm currently learning Java, Spring, JavaScript and React!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <p align="center">
-  <img src="https://github.com/Marv3llous/Marv3llous/assets/156658708/897941b8-087a-462b-995f-4bf05b4f5c6f" alt="cool image"/>
+  <img src="https://github.com/Marv3llous/Marv3llous/assets/156658708/897941b8-087a-462b-995f-4bf05b4f5c6f" alt="cool image" width="400" height="500">/>
 </p>
 
 
