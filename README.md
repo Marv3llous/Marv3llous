@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello World 👋
 
 My name is Marvellous, yes really 😮
 
-I'm currently learning Java, Spring, JavaScript and React!
+Currently learning Java and JavaScript using the Spring and React frameworks!
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
